@@ -1,0 +1,2 @@
+class SidehustlepagesController < ApplicationController
+end
